@@ -21,4 +21,14 @@ git init
    // the '.' refers to the current directory
 
 ```
+- Step 4: **Commit Changes**
+```
+    git commit -m "Version 0"
+```
+
+
+-Step 5: **Create a Remote repo**
+This is done on Github
+
+-Step 6: **Connect my Local Repo to the remote Repo**
 
